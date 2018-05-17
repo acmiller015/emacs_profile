@@ -1,0 +1,9 @@
+# EMACS #
+auto-save-list/*
+elpa/*
+*~
+
+
+# OS Generated Files #
+.DS_Store
+.DS_Store?
